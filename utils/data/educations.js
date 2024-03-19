@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Msc In Computing",
+    duration: "2011 - 2013",
+    institution: "University Of Greenwich",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Bsc In Computing",
+    duration: "2008 - 2011",
+    institution: "University Of Wolverhampton",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "HND In Computing",
+    duration: "2006 - 2008",
+    institution: "BCAS (LK)",
   }
 ]
